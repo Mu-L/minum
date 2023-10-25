@@ -1,3 +1,9 @@
+vUNKNOWN
+--------
+
+* Make code for converting comma-delimited strings to array more robust.
+  Now, extra spaces are much less likely to confuse it.
+
 v2.2.0
 ------
 
